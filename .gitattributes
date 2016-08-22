@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+logbook.org  filter=crypt diff=crypt
